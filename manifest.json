@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "RightWheelZoom",
   "version": "1.0.0",  
-  "permissions": ["tabs","storage"],
+  "permissions": ["storage"],
   "description": "Right-click and wheel the mouse to zoom in or out.", 
   "icons": { "128": "icon128.png" },
   "background": {
@@ -18,5 +18,6 @@
       "js": [ "contents.js"],
       "run_at": "document_start"
     }
-  ]
+  ],
+  "author":"teahat"
 }
