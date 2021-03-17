@@ -5,6 +5,8 @@ https://www.youtube.com/watch?v=OjNp-cMlPDI
 
 # Install from Chrome Web Store
 
+https://chrome.google.com/webstore/detail/pgclanbhfndiandjopgkjhobgnbodilo
+
 # Install from GitHub
 
 - Download `rightwheelzoom.zip` from
@@ -16,7 +18,7 @@ https://github.com/T3aHat/RightWheelZoom/raw/main/rightwheelzoom.zip
 
 # Settings
 
-Click on the icon at the top right of the page to change the settings.
+Click on the icon at the top right of the page to change the settings.  
 ![rwzoom.png](https://github.com/T3aHat/RightWheelZoom/raw/main/images/rwzoom.png)
 
 # Usage
