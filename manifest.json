@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "name": "RightWheelZoom",
-  "version": "1.0.0",  
+  "name": "RightClickWheelZoom",
+  "version": "1.0.1",  
   "permissions": ["storage"],
   "description": "Right-click and wheel the mouse to zoom in or out.", 
   "icons": { "128": "icon128.png" },

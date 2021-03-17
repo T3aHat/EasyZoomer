@@ -1,5 +1,5 @@
 import zipfile
-with zipfile.ZipFile('rightwheelzoom.zip', 'w')as zf:
+with zipfile.ZipFile('rightclickwheelzoom.zip', 'w')as zf:
     zf.write('manifest.json')
     zf.write('background.js')
     zf.write('contents.js')
