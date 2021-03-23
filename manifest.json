@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "name": "RightClickWheelZoom",
-  "version": "1.0.1",  
+  "name": "EasyZoomer",
+  "version": "1.0.2",  
   "permissions": ["storage"],
   "description": "Right-click and wheel the mouse to zoom in or out.", 
   "icons": { "128": "icon128.png" },
